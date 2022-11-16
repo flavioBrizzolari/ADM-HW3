@@ -9,7 +9,7 @@ Maria Alejandra Peña Ortiz - 2056718 - maria229724@gmail.com
 
 Flavio Brizzolari Scrocco - 1608550 - brizzolariscrocco.1608550@studenti.uniroma1.it
 
-Leonardo Sordi -   -
+Leonardo Sordi - 1747797 - sordi.1747797@studenti.uniroma1.it
 
 
 ## Analysis of Popular places:
