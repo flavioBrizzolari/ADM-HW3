@@ -23,27 +23,33 @@ We used the data we scraped from [Atlas Obscura](https://www.atlasobscura.com/pl
 
 ## Script descriptions:
 
+1. `Main_HW3.ipynb`:
+   > A notebook with our code for the whole homework.
 
-1. `README.md`:
+2. `README.md`:
    
    > A markdown file which you are reading right now explaining how we worked and the descriptions of our Github repository.
 
-2. `TSV.zip`:
+3. `TSV.zip`:
    
    >A zip file of .tsv files containing all the scraped information.
 
-3. `commandline.sh`:
+4. `commandline.sh`:
    
    >A bash script containing the answer to the sixth question.
    
-4. `inv_indx.json`:
+5. `inv_indx.json`:
    
    >A JSON file containing the inverse indexes created for the 2nd & 3rd question
 
-3. `tfidf_final.zip`:
+6. `tfidf_final.zip`:
    
    > Zip file containing the tf-idf matrix.
     
-4. `vocab.zip`:
+7. `urls.txt`:
+
+   > The urls we got from the [Atlas Obscura](https://www.atlasobscura.com/places?sort=likes_count) website.
+
+8. `vocab.zip`:
     
     >A zip file containing our vocabulary created for the search engines.
