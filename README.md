@@ -3,11 +3,11 @@
 
 University of Sapienza- ADM HW 3 
 
-Group Members [Group 24]
+Group Members of Group #3
 
 Flavio Brizzolari Scrocco - 1608550 - brizzolariscrocco.1608550@studenti.uniroma1.it
 
-Maria Alejandra Peña -   -
+Maria Alejandra Peña - 2056718 - maria229724@gmail.com
 
 Leonardo Sordi -   -
 
