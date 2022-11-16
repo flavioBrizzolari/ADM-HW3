@@ -3,10 +3,7 @@
 
 University of Sapienza- ADM HW 3 
 
-An analysis of places 
-
 Group Members [Group 24]
-
 
 Flavio Brizzolari Scrocco - 1608550 - brizzolariscrocco.1608550@studenti.uniroma1.it
 
