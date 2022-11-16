@@ -1,6 +1,5 @@
 # ADM-HW3
 
------
 
 University of Sapienza- ADM HW 3 
 
@@ -15,22 +14,18 @@ Maria Alejandra Peña -   -
 
 Leonardo Sordi -   -
 
-----
 
 ## Analysis of Popular places:
 
 
 ### Our data:
 
---------------------------------------------------
 
 We used the data we scraped from [Atlas Obscura](https://www.atlasobscura.com/places?sort=likes_count)
 
 
-
 ## Script descriptions:
 
----------------------------------------------------
 
 1. `README.md`:
    
