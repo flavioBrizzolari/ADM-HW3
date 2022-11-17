@@ -23,33 +23,36 @@ We used the data we scraped from [Atlas Obscura](https://www.atlasobscura.com/pl
 
 ## Script descriptions:
 
-1. `Main_HW3.ipynb`:
+1. `imgs`:
+   > A folder containing the images to our map for Q4 and the results of the searc 'American Museum' for Q3.
+
+2. `Main_HW3.ipynb`:
    > A notebook with our code for the whole homework.
 
-2. `README.md`:
+3. `README.md`:
    
    > A markdown file which you are reading right now explaining how we worked and the descriptions of our Github repository.
 
-3. `TSV.zip`:
+4. `TSV.zip`:
    
    >A zip file of .tsv files containing all the scraped information.
 
-4. `commandline.sh`:
+5. `commandline.sh`:
    
    >A bash script containing the answer to the sixth question.
    
-5. `inv_indx.json`:
+6. `inv_indx.json`:
    
    >A JSON file containing the inverse indexes created for the 2nd & 3rd question
 
-6. `tfidf_final.zip`:
+7. `tfidf_final.zip`:
    
    > Zip file containing the tf-idf matrix.
     
-7. `urls.txt`:
+8. `urls.txt`:
 
    > The urls we got from the [Atlas Obscura](https://www.atlasobscura.com/places?sort=likes_count) website.
 
-8. `vocab.zip`:
+9. `vocab.zip`:
     
     >A zip file containing our vocabulary created for the search engines.
