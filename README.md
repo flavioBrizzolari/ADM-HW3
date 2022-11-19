@@ -56,3 +56,8 @@ We used the data we scraped from [Atlas Obscura](https://www.atlasobscura.com/pl
 9. `vocab.zip`:
     
     >A zip file containing our vocabulary created for the search engines.
+    
+10. `vocab.zip`:
+    
+    >A folder containing map.py and reduce.py steps
+
